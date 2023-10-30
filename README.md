@@ -38,7 +38,7 @@ To run Gen AI locally, follow these steps:
 
 3. Environment Variables:
    ```
-   -- rename .env.example to .env.local
+   -- rename example.env to .env.local
    -- add hugging face api key from https://huggingface.co/settings/tokens
    -- Paste Hugging face api key
    ```
