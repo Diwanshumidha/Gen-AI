@@ -94,6 +94,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 Gen AI is created by Diwanshu Midha.
-```
-
-Customize this template with the relevant details for your project, such as your name, email, and the actual URL of your GitHub repository. This README will provide a comprehensive introduction to your Gen AI web app for anyone who visits your repository.
